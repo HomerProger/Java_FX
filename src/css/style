@@ -1,0 +1,8 @@
+#TextArea{
+-fx-font-size: 20px;
+}
+.button{
+-fx-background-color: #98FB98;
+-fx-font-size: 15 px;
+-fx-font-weight: bolder;
+}
